@@ -19,12 +19,3 @@ This is a beginner-friendly walkthrough of how I practiced setting up **monitori
 | journalctl | System logs viewer (modern way)    |
 | dmesg      | Kernel logs (boot/hardware issues) |
 | syslog     | Old but gold general logs          |
-
-## How I did it
-
-### 1. Installed `htop`
-
-```bash
-sudo apt update
-sudo apt install htop -y
-```
